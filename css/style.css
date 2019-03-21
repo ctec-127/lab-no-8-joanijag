@@ -2,11 +2,27 @@
 
 body {
     font-family: Arial, Helvetica, sans-serif;
+    background-color: darkgray !important;
+    Color: black;
     margin: 0;
     padding: 0;
-    background: #fafafa;
+    font-size: 18px;
 }
 
 th a:link, th a:visited, th a:hover, th a:active {
-    color: #ffffff;
+    color: #8a2525;
 }
+
+h1{
+    text-align: center;
+}
+h4{
+    text-align: center;
+}
+.container1{
+    width: 600px;
+    margin: auto;
+    display:inline-block;
+    float: none;
+}
+
